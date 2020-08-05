@@ -5,7 +5,7 @@ description: This is meta description
 type: featured
 image: images/featured-post/post-1.jpg
 categories:
-- Valuable Idea
+- Automation Tools
 tags:
 - Photos
 - Finance
