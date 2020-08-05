@@ -6,9 +6,7 @@ type: featured
 image: images/featured-post/post-1.jpg
 categories:
 - Automation Tools
-tags:
-- Photos
-- Finance
+tags: []
 
 ---
 Code less tools 
