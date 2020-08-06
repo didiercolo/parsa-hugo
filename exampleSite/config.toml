@@ -6,12 +6,8 @@ theme = "parsa-hugo"
 title = "Didier Corrales - Senior QA Automation Consultant"
 [[menu.main]]
 URL = "about"
-name = "About"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 3
+name = "About me"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
