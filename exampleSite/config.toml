@@ -62,6 +62,9 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
+URL = "https://www.instagram.com/didier_corrales_lopez/"
+icon = "ti-instagram"
+[[params.social]]
 URL = "#https://www.facebook.com/didier.corrrales.lopez"
 icon = "ti-facebook"
 [[params.social]]
