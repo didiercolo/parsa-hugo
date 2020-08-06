@@ -65,10 +65,7 @@ link = "plugins/search/search.js"
 URL = "#https://www.facebook.com/didier.corrrales.lopez"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
-[[params.social]]
-URL = "#"
+URL = "#https://www.linkedin.com/in/didiercorrales/"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
