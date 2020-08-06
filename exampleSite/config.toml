@@ -21,7 +21,7 @@ author_image = "images/banner-img.png"
 bio = "I’m a Senior QA Automation Engineer.\nAgile enthusiast and coffee lover!"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
+description = "Didier Corrales - Senior QA Consultant"
 email = "didiercolo@gmail.com"
 google_analitycs_id = "UA-174551336-1"
 home = "Home"
@@ -29,7 +29,7 @@ layout = "1"
 logo = "images/logo.png"
 mobile = "+506 71302769"
 preloader = true
-search = true
+search = false
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 enable = true
@@ -62,7 +62,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "#"
+URL = "#https://www.facebook.com/didier.corrrales.lopez"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#"
