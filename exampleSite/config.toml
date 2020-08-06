@@ -71,5 +71,5 @@ icon = "ti-facebook"
 URL = "https://www.linkedin.com/in/didiercorrales/"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#https://github.com/didiercolo"
+URL = "https://github.com/didiercolo"
 icon = "ti-github"
