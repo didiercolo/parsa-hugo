@@ -68,7 +68,7 @@ icon = "ti-instagram"
 URL = "https://www.facebook.com/didier.corrrales.lopez"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#https://www.linkedin.com/in/didiercorrales/"
+URL = "https://www.linkedin.com/in/didiercorrales/"
 icon = "ti-linkedin"
 [[params.social]]
 URL = "#https://github.com/didiercolo"
