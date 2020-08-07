@@ -23,6 +23,7 @@ google_analitycs_id = "UA-174551336-1"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
+logofooter = "images/logo-footer.png"
 mobile = "+506 71302769"
 preloader = true
 search = false
