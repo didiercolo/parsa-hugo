@@ -3,7 +3,7 @@ title: Rest API - Is this really needed?
 date: 2020-08-03T02:46:10-06:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-5.jpg
+image: "/images/3.png"
 categories:
 - Nature
 tags:
