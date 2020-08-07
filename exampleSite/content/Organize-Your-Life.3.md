@@ -6,8 +6,7 @@ type: featured
 image: images/featured-post/post-4.jpg
 categories:
 - Automation Tools
-tags:
-- mobile
+tags: []
 
 ---
 Detox - React Native Automation
