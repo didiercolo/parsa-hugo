@@ -2,7 +2,6 @@
 categories = ["Automation Tools"]
 date = 2020-08-06T08:46:10Z
 description = "Cypress.io help to improve automation "
-draft = true
 image = "images/featured-post/post-2.jpg"
 tags = ["Cypreess.io", "automation", "tools", "web automation", "api automation", "cross-browser testing"]
 title = "Cypress.io - Expanding Automation horizons-(copy)"
