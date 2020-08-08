@@ -1,13 +1,16 @@
-+++
-categories = ["Automation Tools"]
-date = 2020-08-06T08:46:10Z
-description = "Cypress.io help to improve automation "
-image = "/images/4.png"
-tags = ["Cypreess.io", "automation", "tools", "web automation", "api automation", "cross-browser testing"]
-title = "Detox - React Native Automation"
-type = "featured"
+---
+title: Rest API - Is this really needed?
+date: 2020-08-03T02:46:10-06:00
+description: Let's talk about Rest APIs
+type: featured
+image: "/images/3.png"
+categories:
+- Automation
+tags:
+- Rest API
+- Backend
 
-+++
+---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
