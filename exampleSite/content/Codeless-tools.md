@@ -6,7 +6,8 @@ type: featured
 image: images/featured-post/post-1.jpg
 categories:
 - Automation Tools
-tags: []
+tags:
+- automation
 
 ---
 # Codeless tools
