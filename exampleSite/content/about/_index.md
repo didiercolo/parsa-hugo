@@ -22,4 +22,4 @@ Co-Admin at TestingCR, testing community in Costa Rica and QA Coach at QALabsCR 
 
 ###### TestingUY - Cypress.io - Automatización al siguiente nivel 
 
-{{< youtube 9IVA2HTtlL0 `yt_start="12"` >}}
+{{< youtube 9IVA2HTtlL0 >}}
