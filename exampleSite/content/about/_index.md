@@ -18,9 +18,11 @@ A detail-oriented person with a great experience on QA Techniques, testing types
 Functional, regression, performance, system integration, browser compatibility, mobile testing, white box, black box, smoke, sanity testing, and web user experience testing.  
 Co-Admin at TestingCR, testing community in Costa Rica and QA Coach at QALabsCR and international speaker.
 
-***
+ 
 
-##### My Talks
+ 
+
+#### My Talks
 
 ***
 
