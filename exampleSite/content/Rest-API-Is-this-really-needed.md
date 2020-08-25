@@ -1,6 +1,6 @@
 ---
 title: Rest API - Is this really needed?
-date: 2020-08-03T02:46:10-06:00
+date: 2020-08-03T02:46:10.000-06:00
 description: Let's talk about Rest APIs
 type: featured
 image: "/images/3.png"
@@ -9,6 +9,7 @@ categories:
 tags:
 - Rest API
 - Backend
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
