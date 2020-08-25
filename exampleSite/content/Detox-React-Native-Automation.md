@@ -2,6 +2,7 @@
 categories = ["Automation Tools"]
 date = 2020-08-06T08:46:10Z
 description = "Detox - React Native Automation"
+draft = true
 image = "/images/4.png"
 tags = ["Automation"]
 title = "Detox - React Native Automation"
