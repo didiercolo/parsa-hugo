@@ -1,8 +1,8 @@
 ---
 title: About me
-date: 2019-05-14T14:46:10.000+06:00
+date: 2000-08-01T00:00:00-06:00
 description: Didier Corrales - Senior QA Automation Consultant
-image: images/dsc_5811.jpg
+image: images/didier.jpeg
 
 ---
 QA Automation Engineer with more than 9 years of experience in the area.
