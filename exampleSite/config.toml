@@ -4,10 +4,6 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Didier Corrales - Senior QA Automation Consultant"
-[[menu.main]]
-URL = "about"
-name = "About me"
-weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
