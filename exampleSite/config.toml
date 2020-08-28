@@ -24,7 +24,7 @@ home = "Home"
 layout = "1"
 logo = "images/logo.png"
 logofooter = "images/logo-footer.png"
-mobile = "+506 71302769"
+mobile = "didiercolo"
 preloader = true
 search = false
 [params.instafeed]
@@ -61,9 +61,6 @@ link = "plugins/search/search.js"
 [[params.social]]
 URL = "https://www.instagram.com/didier_corrales_lopez/"
 icon = "ti-instagram"
-[[params.social]]
-URL = "https://www.facebook.com/didier.corrrales.lopez"
-icon = "ti-facebook"
 [[params.social]]
 URL = "https://www.linkedin.com/in/didiercorrales/"
 icon = "ti-linkedin"
