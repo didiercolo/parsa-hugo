@@ -1,6 +1,6 @@
 ---
-title: Didier Corrales 
-date: 2000-08-01T00:00:00-06:00
+title: Didier Corrales
+date: 2000-08-01T00:00:00.000-06:00
 description: Didier Corrales - Senior QA Automation Consultant
 image: images/didier.jpeg
 
@@ -18,13 +18,17 @@ A detail-oriented person with a great experience on QA Techniques, testing types
 Functional, regression, performance, system integration, browser compatibility, mobile testing, white box, black box, smoke, sanity testing, and web user experience testing.  
 Co-Admin at TestingCR, testing community in Costa Rica and QA Coach at QALabsCR and international speaker.
 
- 
-
- 
-
 #### My Talks
 
 ***
+
+###### - Abastracta Webinar - Cypress - Expanding Automation Horizons 
+
+{{< youtube QtKRKyTw_a8 >}}
+
+***
+
+###### 
 
 ###### - TestingUY - Cypress.io - Automatización al siguiente nivel (2019)
 
