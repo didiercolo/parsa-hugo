@@ -1,6 +1,6 @@
 ---
 title: About me
-date: 2000-08-01T00:00:00-06:00
+date: 2000-08-01T00:00:00.000-06:00
 description: Didier Corrales - Senior QA Automation Consultant
 image: images/didier.jpeg
 
@@ -18,11 +18,11 @@ A detail-oriented person with a great experience on QA Techniques, testing types
 Functional, regression, performance, system integration, browser compatibility, mobile testing, white box, black box, smoke, sanity testing, and web user experience testing.  
 Co-Admin at TestingCR, testing community in Costa Rica and QA Coach at QALabsCR and international speaker.
 
- 
-
- 
-
 #### My Talks
+
+###### - Prodigious Latin America - Digital Level Up Summit 2020 - Codeless Automation (2020)
+
+{{< youtube F7IaiYlllTQ >}}
 
 ***
 
